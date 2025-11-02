@@ -1,0 +1,11 @@
+{
+  "you_are_invited": "Bạn được mời",
+  "guest_name": "Tên khách mời",
+  "number_attendees": "Số người tham dự",
+  "email_address":  "Email xác nhận",
+  "special_notes": "Hạn chế chế độ ăn",
+  "confirm_attendance": "Xác nhận tham dự",
+  "already": "Bạn đã đăng ký! Nếu cần thay đổi, vui lòng liên hệ ban tổ chức.",
+  "thank_you": "Cảm ơn bạn đã phản hồi",
+  "thank_you_message": "Sự tham dự của bạn đã được xác nhận.<br>Bạn sẽ nhận được email xác nhận."
+}

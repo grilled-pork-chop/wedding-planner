@@ -1,0 +1,11 @@
+{
+  "you_are_invited": "Vous êtes invité",
+  "guest_name": "Votre nom",
+  "number_attendees": "Nombre d'invités",
+  "email_address": "Adresse e-mail",
+  "special_notes": "Restrictions alimentaires",
+  "confirm_attendance": "Confirmer la présence",
+  "already": "Vous avez déjà répondu ! Pour des modifications, contactez les organisateurs.",
+  "thank_you": "Merci pour votre réponse",
+  "thank_you_message": "Votre présence a été confirmée.<br>Vous recevrez un e-mail de confirmation."
+}
